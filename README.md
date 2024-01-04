@@ -7,7 +7,7 @@
 - 🎮 I love to play tanchiki on dendi
 - 🤓 I am constantly learning new things
 - 📘 I love reading articles on SPBPU
-- 🏓 I like bigData
+- ✌ I like bigData
 
 ### Connect with me:
 
@@ -32,6 +32,6 @@
 <br />
 
 
-[Codewars]: https://www.codewars.com/users/Yankeegohome/
+[Codewars]: [https://www.codewars.com/users/Yankeegohome/](https://www.instagram.com/dorofeeva.nastasiia?igsh=c2dqMHN6MXdpbDdk)
 [Telegram]: https://t.me/dorofeeva18
 [vk]: https://vk.com/anastasiadorofeeva18

@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm NastuwkaDuwka
 
-![](https://www.codewars.com/users/Yankeegohome/badges/small)
+
 
 ## I'm looking for a job at the moment
 - 🙃 I like watching youtube

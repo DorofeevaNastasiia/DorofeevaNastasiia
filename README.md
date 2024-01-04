@@ -32,6 +32,6 @@
 <br />
 
 
-[Codewars]: https://www.codewars.com/users/Yankeegohome/](https://www.instagram.com/dorofeeva.nastasiia?igsh=c2dqMHN6MXdpbDdk)
+[Codewars]: https://www.instagram.com/dorofeeva.nastasiia?igsh=c2dqMHN6MXdpbDdk
 [Telegram]: https://t.me/dorofeeva18
 [vk]: https://vk.com/anastasiadorofeeva18
